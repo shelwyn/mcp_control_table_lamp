@@ -74,7 +74,7 @@ JSON-RPC proxy that:
 
 #### Connecting NodeMCU to Relay Module
 
-![Screenshot](images/nodemcu-relay.jpg)
+![Screenshot](nodemcu-relay.jpg)
 
 1. Connect the components as follows:
 
