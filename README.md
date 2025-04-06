@@ -30,17 +30,10 @@ The project consists of three main components:
 ## Hardware Requirements
 
 - **NodeMCU ESP8266**: WiFi-enabled microcontroller board
-  - [Purchase link will be added here]
+  - [Purchase on Amazon](https://www.amazon.in/Robocraze-ESP8266-Nodemcu-Internet-Development/dp/B0829Z1W6Y/)
   
 - **Relay Module**: Single channel relay (5V)
-  - [Purchase link will be added here]
-  
-- **Jumper Wires**: For connecting components
-  - [Purchase link will be added here]
-  
-- **Table Lamp**: Any standard lamp or appliance you want to control
-  
-- **Micro USB Cable**: For programming the NodeMCU
+  - [Purchase on Amazon](https://www.amazon.in/Electronic-Spices-Channel-Compatible-Microcontroller/dp/B0BJF1T1LB/)
 
 ## Software Components
 
